@@ -1,0 +1,23 @@
+ULTIBOARD DRILL REPORT
+
+Design: Hele_EKG_kretsen
+
+DRILL FILE SETTINGS
+Excellon 2, Absolute, Metric, 3.4 
+
+
+DEFINITION COPPER LAYERS
+Copper Top
+Copper Bottom
+
+
+--------------------------------------------------------------------
+
+DRILLFILE                                         LAMINATION
+Hele_EKG_kretsen - Copper Top-Copper Bottom.drl   Copper Top .. Copper Bottom
+
+TOOL     SIZE   TYPE  COUNT
+   1   0.6000    PTH      5
+   2   1.0000    PTH     51
+   3   4.0000   NPTH      3
+   4   1.3970    PTH      8
